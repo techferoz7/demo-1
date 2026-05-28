@@ -1,3 +1,3 @@
 # demo-1
 First project of my website
-Author: Feroz
+Author: Feroz Al Mamun
